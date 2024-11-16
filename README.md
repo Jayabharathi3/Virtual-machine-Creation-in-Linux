@@ -62,9 +62,9 @@ vi /etc/hostname
 cat /etc/hostname
 ```
 
-```C
-### REG NUMBER: 212222100013
-### NAME: JAYABHARATHI S
+```
+**REG NUMBER: 212222100013
+NAME: JAYABHARATHI S**
 ```
 
 ## OUTPUT
