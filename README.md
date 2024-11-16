@@ -62,11 +62,14 @@ vi /etc/hostname
 cat /etc/hostname
 ```
 
+```C
 ### REG NUMBER: 212222100013
 ### NAME: JAYABHARATHI S
+```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/220585cd-c715-4f0b-bf85-38035416524b)
+
+![image](https://github.com/user-attachments/assets/9f540cf0-f21b-4477-a44c-411cff2882b4)
 
 ![image](https://github.com/user-attachments/assets/d19abc61-3aaf-46ae-adf9-13a97d5b9573)
 
